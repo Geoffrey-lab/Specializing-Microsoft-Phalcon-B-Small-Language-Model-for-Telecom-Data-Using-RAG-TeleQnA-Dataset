@@ -13,7 +13,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/Phalcon-B-Telecom-Specialization.git
+git clone https://github.com/Geoffrey-lab/Specializing-Microsoft-Phalcon-B-Small-Language-Model-for-Telecom-Data-Using-RAG-TeleQnA-Dataset.git
 cd Phalcon-B-Telecom-Specialization
 Install Dependencies:
 Ensure you have the necessary Python packages installed. You can use requirements.txt to install them:
